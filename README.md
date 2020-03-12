@@ -1,0 +1,2 @@
+# MathClass
+Com o jogo Math Class, os alunos utilizaram operações matemáticas para adivinhar quais números foram escolhidos pelo líder de sua equipe. Ao selecionar o número pensado pelo grupo após a realização dos cálculos, era revelado se este correspondia a cor da sua equipe ou da equipe adversária. No final, quem fizesse 8 pontos primeiro, ganhava o jogo! Os alunos puderam se divertir enquanto revisavam o conteúdo da matéria e exercitavam o trabalho em equipe!
